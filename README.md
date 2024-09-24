@@ -1,1 +1,4 @@
 # 24.09.24-merge-demo
+APPLE
+ORANGES
+MANGO
